@@ -18,7 +18,8 @@ For help on using the VBA Editor, Self Signing and running Macros, and adding Ma
 
 ## Create a new Find/Replace macro
 Using the VBA Editor, copy/paste a duplicate of the Main Sub, rename the Sub and modify the two paramaters in the Word_ReplaceInSelection function call. e.g.
-
+```
 Public Sub ReplaceInSelection_XXwithYY()
     Word_ReplaceInSelection "XX", "YY"   
 End Sub
+```
