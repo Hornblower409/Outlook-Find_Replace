@@ -11,6 +11,7 @@ Tools -> References ...
 {Find "Microsoft Word ... Object Library" in the list and check it}
 
 Debug -> Compile ...
+
 File -> Save VbaProject.OTM
 
 For help on using the VBA Editor, Self Signing and running Macros, and adding Macros to your Quick Access Toolbar or Ribbon see the Slipstick Systems web site article: [How to use Outlook's VBA Editor](https://www.slipstick.com/developer/how-to-use-outlooks-vba-editor/)
